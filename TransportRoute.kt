@@ -1,0 +1,1 @@
+data class TransportRoute(val id: Int, val startLocation: String, val endLocation: String, val distance: Double)
